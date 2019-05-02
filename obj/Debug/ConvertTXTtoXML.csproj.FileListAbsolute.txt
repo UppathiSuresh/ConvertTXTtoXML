@@ -1,0 +1,40 @@
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.csprojResolveAssemblyReference.cache
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_print\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.csprojResolveAssemblyReference.cache
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_print\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Program Files\Visual Studio 2015\Projects\PRACTISE\ConvertTXTtoXML_Modified_trail\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Users\thandapani.a\Desktop\Mymsc\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.dll
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\ConvertTXTtoXML.pdb
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.csprojAssemblyReference.cache
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.csproj.CoreCompileInputs.cache
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.csproj.CopyComplete
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.dll
+C:\Users\suresh.uppathi\Desktop\ConvertTXTtoXML\ConvertTXTtoXML\obj\Debug\ConvertTXTtoXML.pdb
