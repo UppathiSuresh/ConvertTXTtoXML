@@ -1,0 +1,82 @@
+<root>
+	<EDImappingspecification>
+		<mapping name="EDI_COPARN98" version="1.0">
+			<line number ="1" column="1" length ="8" value ="COPARN98"/>
+			<specification name="Coparn95v38"	 version ="1.1" file ="%SPECPATH%Coparn95v38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_COPARN00B" version="1.0">
+			<line number ="1" column="1" length ="9" value ="COPARN00B"/>
+			<specification name="Coparn00Bv38"	 version ="1.1" file ="%SPECPATH%Coparn00Bv38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="IFTMBF" version="1.0">
+			<line number ="1" column="1" length ="9" value ="IFTMBFv200x02x03"/>
+			<specification name="IFTMBFv200x02x03"	 version ="1.1" file ="%SPECPATH%IFTMBFv200x02x03.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>	
+		<mapping name="IFTMBC" version="1.0">
+			<line number ="1" column="1" length ="9" value ="IFTMBCv200x02x03"/>
+			<specification name="IFTMBCv200x02x03"	 version ="1.1" file ="%SPECPATH%IFTMBCv200x02x03.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>	
+		<mapping name="IFTMIN" version="1.0">
+			<line number ="1" column="1" length ="9" value ="IFTMINv99Bx002x04"/>
+			<specification name="IFTMINv99Bx002x04"	 version ="1.1" file ="%SPECPATH%IFTMINv99Bx002x04.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>			
+		<mapping name="IFTSAI_00B" version="1.0">
+			<line number ="1" column="1" length ="9" value ="IFTSAI_00B"/>
+			<specification name="IFTSAI_00B"	 version ="1.1" file ="%SPECPATH%IFTSAI_00B.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>		
+		<mapping name="EDI_COPRAR95" version="1.0">
+			<line number ="1" column="1" length ="8" value ="COPRAR95"/>
+			<specification name="Coprar95Bv38"	 version ="1.1" file ="%SPECPATH%Coprar95Bv38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+            <mapping name="EDI_COPRAR00B" version="1.0">
+			<line number ="1" column="1" length ="8" value ="COPRAR00B"/>
+			<specification name="Coprar00Bv38"	 version ="1.1" file ="%SPECPATH%Coprar00Bv38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_CUSREP" version="1.0">
+			<line number ="1" column="1" length ="8" value ="CUSREP04"/>
+			<specification name="Cusrep04Av38"	 version ="1.1" file ="%SPECPATH%Cusrep04Av38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_APERAK" version="1.0">
+			<line number ="1" column="1" length ="8" value ="APERAK99"/>
+			<specification name="Aperak99Bv38"	 version ="1.1" file ="%SPECPATH%Aperak99Bv38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_CUSCAR" version="1.0">
+			<line number ="1" column="1" length ="8" value ="CUSCAR04"/>
+			<specification name="Cuscar04Av38"	 version ="1.1" file ="%SPECPATH%Cuscar04Av38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_COREOR" version="1.0">
+			<line number ="1" column="1" length ="8" value ="COREOR08B"/>
+			<specification name="Coreor08Bv38"	 version ="1.1" file ="%SPECPATH%Coreor08Bv38.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+		<mapping name="EDI_COHAOR" version="1.0">
+			<line number ="1" column="1" length ="8" value ="COHAOR00B"/>
+			<specification name="Cohaor00B"	 version ="1.1" file ="%SPECPATH%Cohaor00B.xml"/>
+			<storedprocedure name=""/>"
+			<callstoredprocedure name=""/>"
+		</mapping>
+   </EDImappingspecification>
+</root>

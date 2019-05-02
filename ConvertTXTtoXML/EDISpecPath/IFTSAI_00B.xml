@@ -1,0 +1,85 @@
+<root>
+	<FILE isvirtual="1">
+		<MSG isvirtual="1">
+			<UNB  isgroup="1" startposition="0" minoccurences="1" maxoccurences="1">
+				<UNB01 fieldname="" description="Interchange header" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="UNB" />
+				<UNB02 fieldname="" description="Syntax identifier"  startposition="0" type="S" length="1" ismandatory="1" />
+				<UNB03 fieldname="" description="Message sender" startposition="0" type="S" length="1" ismandatory="1" />
+				<UNB04 fieldname="" description="Message receiver" startposition="0" type="S" length="1" ismandatory="1" />
+				<UNB05 fieldname="" description="Date and time" startposition="0" type="N" length="1" ismandatory="1" />
+				<UNB06 fieldname="" description="Recipient reference" startposition="0" type="N" length="1" ismandatory="0" />
+			</UNB>
+		<MSG1 isvirtual="1">
+			<UNH isgroup="1" startposition="" minoccurences="1" maxoccurences="1">
+				<UNH01 fieldname="" description="Message header" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="UNH" />
+				<UNH02 fieldname="" description="Message reference number"  startposition="0" type="S" length="1" ismandatory="1" />
+				<UNH03 fieldname="" description="Message identifier"  startposition="0" type="S" length="1" ismandatory="1" />
+				<UNH04 fieldname="" description="Access reference"  startposition="0" type="S" length="1" ismandatory="0" />
+				<UNH05 fieldname="" description="Status transfer"  startposition="0" type="S" length="1" ismandatory="0" />
+			</UNH>	
+			<BGM isgroup="0" startposition="" minoccurences="1" maxoccurences="1">
+				<BGM01 fieldname="" description="Beginning of message" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="BGM" />
+				<BGM02 fieldname="" description="Message name"  startposition="0" type="S" length="1" ismandatory="1" />
+				<BGM03 fieldname="" description="Message identification"  startposition="0" type="S" length="1" ismandatory="1" />
+				<BGM04 fieldname="" description="Message functioncode"  startposition="0" type="S" length="1" ismandatory="1" />
+				<BGM05 fieldname="" description="Message responsecode"  startposition="0" type="S" length="1" ismandatory="0" />
+			</BGM>
+			<DTM isgroup="0" startposition="" minoccurences="1" maxoccurences="1">
+				<DTM01 fieldname="" description="Date Time period" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="DTM" />
+				<DTM02 fieldname="" description="Date Time qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+			</DTM>
+			<FTX isgroup="0" startposition="" minoccurences="1" maxoccurences="2">
+				<FTX01 fieldname="" description="Free Text" startposition="0" type="S" length="3" ismandatory="0" isidrow="1" idvalue="FTX" />
+				<FTX02 fieldname="" description="Free Text qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+				<FTX03 fieldname="" description="Free Text function"  startposition="0" type="S" length="1" ismandatory="0" />
+				<FTX04 fieldname="" description="Free Text reference"  startposition="0" type="S" length="1" ismandatory="0" />
+				<FTX05 fieldname="" description="Free Text literal"  startposition="0" type="S" length="1" ismandatory="0" />
+				<FTX06 fieldname="" description="Free Text language"  startposition="0" type="S" length="1" ismandatory="0" />
+			</FTX>
+			<Group1 isvirtual="1" groupismandatory="0">
+				<TDT isgroup="1" startposition="" minoccurences="1" maxoccurences="1">
+					<TDTD01 fieldname="" description="Transport detail" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="TDT" />
+					<TDT02 fieldname="" description="Transport qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+					<TDT03 fieldname="" description="Voyage number"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT04 fieldname="" description="Transport mode"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT05 fieldname="" description="Transport means"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT06 fieldname="" description="Carrier"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT07 fieldname="" description="Transit code"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT08 fieldname="" description="Transport excess info"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT09 fieldname="" description="Transport  identification"  startposition="0" type="S" length="1" ismandatory="0" />
+					<TDT10 fieldname="" description="Transport ownership"  startposition="0" type="S" length="1" ismandatory="0" />
+				</TDT>
+				<RFF isgroup="1" startposition="" minoccurences="1" maxoccurences="2">
+					<RFF01 fieldname="" description="Reference" startposition="0" type="S" length="3" ismandatory="0" isidrow="1" idvalue="RFF" />
+					<RFF02 fieldname="" description="Reference qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+				</RFF>
+			</Group1>
+			<Group2 isvirtual="1" groupismandatory="0">
+				<LOC isgroup="1" startposition="" minoccurences="1" maxoccurences="999">
+					<LOC01 fieldname="" description="Location identification" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="LOC" />
+					<LOC02 fieldname="" description="Location qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+					<LOC03 fieldname="" description="Location identification"  startposition="0" type="S" length="1" ismandatory="0" />
+					<LOC04 fieldname="" description="Location identification 1"  startposition="0" type="S" length="1" ismandatory="0" />
+					<LOC05 fieldname="" description="Location identification 2"  startposition="0" type="S" length="1" ismandatory="0" />
+					<LOC06 fieldname="" description="Location code"  startposition="0" type="S" length="1" ismandatory="0" />
+				</LOC>
+				<DTM isgroup="2" startposition="" minoccurences="1" maxoccurences="4">
+					<DTM01 fieldname="" description="Date Time period" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="DTM" />
+					<DTM02 fieldname="" description="Date Time qualifier"  startposition="0" type="S" length="1" ismandatory="1" />
+				</DTM>
+			</Group2>
+			<UNT isgroup="1" startposition="" minoccurences="1" maxoccurences="1">
+				<UNT01 fieldname="" description="Message trailer" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="UNT" />
+				<UNT02 fieldname="" description="Message segments"  startposition="0" type="S" length="1" ismandatory="1" />
+				<UNT03 fieldname="" description="Message reference"  startposition="0" type="S" length="1" ismandatory="1" />
+			</UNT>
+		</MSG1>
+			<UNZ isgroup="1" startposition="" minoccurences="1" maxoccurences="1">
+				<UNZ01 fieldname="" description="Interchange trailer" startposition="0" type="S" length="3" ismandatory="1" isidrow="1" idvalue="UNZ" />
+				<UNZ02 fieldname="" description="Interchange count"  startposition="0" type="S" length="1" ismandatory="1" />
+				<UNZ03 fieldname="" description="Interchange reference"  startposition="0" type="S" length="1" ismandatory="1" />
+			</UNZ>
+		</MSG>
+	</FILE>
+</root>
+		
